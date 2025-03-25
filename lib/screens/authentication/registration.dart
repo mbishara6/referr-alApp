@@ -89,15 +89,6 @@ class  _RegistrationPageState extends State<RegistrationPage> {
                                 const SizedBox(
                                   height: 8,
                                 ),
-                                // GestureDetector(
-                                //   onTap: () {
-                                //     //Forgot Password Page
-                                //   },
-                                //   child: Container(
-                                //       alignment: Alignment.centerRight,
-                                //       child:
-                                //       const Text("Can't remember password?")),
-                                // ),
                                 const SizedBox(
                                   height: 20,
                                 ),
